@@ -20,19 +20,19 @@ A powerful, hybrid LinkedIn post generator built with Python and `ipywidgets`. T
 1. Ensure you have Jupyter Notebook or JupyterLab installed.
 2. Clone this repository:
 ```bash
-   git clone (https://github.com/Miss-Imtiaz/LinkedIn-Post-Generator/edit/main)
+   git clone (https://github.com/Miss-Imtiaz/LinkedIn-Post-Generator/edit/main)```
 3. Open linkedin_post_generator.ipynb in your environment.
 
 4. Run all cells to initialize the UI widgets.
 
-5. Fill in the details, attach your project assets, and click **⚡ Generate Post**.
+5. Fill in the details, attach your project assets, and click ⚡ **Generate Post**.
 
-## 💡 Usage
+💡 Usage
 
 * **Project Upload**: Use this for sharing your latest code or insights. The tool will automatically include accuracy metrics and tech stack details.
 * **Recruiter/User Modes**: Select the appropriate category, and the system will generate an intent-aware template for you.
 
-## 🤝 Contributing
+🤝 Contributing
 
 Feel free to fork this project, suggest improvements, or add new templates for different professional scenarios!
 
