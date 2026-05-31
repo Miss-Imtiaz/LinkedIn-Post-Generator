@@ -27,12 +27,12 @@ A powerful, hybrid LinkedIn post generator built with Python and `ipywidgets`. T
 
 5. Fill in the details, attach your project assets, and click **⚡ Generate Post**.
 
-## 💡 **Usage**
+## 💡 Usage
 
 * **Project Upload**: Use this for sharing your latest code or insights. The tool will automatically include accuracy metrics and tech stack details.
 * **Recruiter/User Modes**: Select the appropriate category, and the system will generate an intent-aware template for you.
 
-## 🤝 **Contributing**
+## 🤝 Contributing
 
 Feel free to fork this project, suggest improvements, or add new templates for different professional scenarios!
 
